@@ -19,7 +19,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 - 🏢 I'm currently Learning **`Data Base in SQL`**
 - 👀 I’m looking to collaborate on **`Web Development`** Projects.
 - 🐍 I’m looking to collaborate on **`Python`** projects.
-- 👨‍💻 All of my projects are available at (https://github.com/CurcoVein96)
+- 👨‍💻 All of my projects are available at https://github.com/EmilioMorales96
 - 💬 Ask me about **Laws** or **Python, Front-End**, anything I'am happy to help.
 </p>
 
@@ -97,7 +97,7 @@ and a self-taught developer with deep passion for Computer-Science and Technolog
 </body>
 
 <footer>
-  <a target="_blank"><img src="https://komarev.com/ghpvc/?username=CurcoVein96&style=for-the-badge" alt="Profile views" height="25" /></a>
+  <a target="_blank"><img src="https://komarev.com/ghpvc/?username=EmilioMorales96&style=for-the-badge" alt="Profile views" height="25" /></a>
 </footer>
 
 
